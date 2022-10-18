@@ -41,7 +41,7 @@ void starAdvertising(){
   //Creamos el uuid del beacon 
   Serial.println( "Creamos el Beacon");
   uint8_t beaconUUID[16] = {
-     'A', 'L', 'B', 'A', '_', 'G', 'T', 'I',
+     'R', 'U', 'B', 'E', 'N', 'G', 'T', 'I',
      '_', 'S', 'P', 'R', 'I', 'N', 'T', '0'
      };
 
